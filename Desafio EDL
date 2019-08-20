@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class alg {
+	public static void main(String[] args) {
+		int nAlg;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Digite o valor da quantidade de algarismos: ")
+		nAlg = scan.nextInt();
+
+		if (nAlg == 1){
+			int = i;
+			for (i=1; i == 9; i++) {
+				System.out.println(nAlg+" tem "+i);
+				String s = Integer.toString(i);
+				System.out.println(s.length());
+			}
+		}
+	}
+}
